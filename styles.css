@@ -1,0 +1,14 @@
+table {
+  border-collapse: collapse;
+  width: 50%;
+}
+
+
+th, td{
+  border: 1px solid black;
+  background-color: orangered;
+}
+
+body{
+background-image: url(/pictures/3.webp); background-repeat: no-repeat; background-attachment: fixed; background-size: cover;
+}
